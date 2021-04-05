@@ -2,13 +2,23 @@
 layout: default
 ---
 
-東京大学大学院総合文化研究科博士後期課程の吉田航です。
+吉田航のWebページです。
 
-[researchmap](https://researchmap.jp/w_yoshida).
+[researchmap](https://researchmap.jp/w_yoshida)
 
-There should be whitespace between paragraphs.
+※以下作成途中です（2021年4月5日）
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## 研究
+
+## 業績
+
+## 教育
+
+## 経歴
+
+## 職歴
+
+## 学会
 
 # Header 1
 
