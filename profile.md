@@ -1,11 +1,14 @@
 ---
 layout: default
-title: Wataru Yoshida
+title: WATARU YOSHIDA
 ---
 
 # プロフィール
 
 最終更新日：2021年4月5日
+
+<br>
+<br>
 
 ### 研究業績
 
@@ -41,7 +44,7 @@ title: Wataru Yoshida
 *   2016年4月 - 2017年3月　東京大学大学院学際情報学府学際情報学専攻社会情報学コース修士課程
 *   2014年4月 - 2016年3月　東京大学教養学部教養学科総合社会科学分科相関社会科学コース 
 *   2012年4月 - 2014年3月　東京大学教養学部文科一類 
-*   1993年12月      　 　　山口県山口市生まれ 
+*   1993年12月　　　　　　　　山口県山口市生まれ 
 
 ### 職歴
 
@@ -58,5 +61,8 @@ title: Wataru Yoshida
 *   関東社会学会 
 *   社会学研究会
 *   International Sociological Association RC30
+
+<br>
+<br>
 
 [ホーム](./)
