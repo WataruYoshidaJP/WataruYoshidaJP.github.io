@@ -6,128 +6,60 @@ layout: default
 
 [researchmap](https://researchmap.jp/w_yoshida)
 
-※以下作成途中です（2021年4月5日）
+国内大企業の採用行動を研究しています。企業調査データの計量分析から、「企業内のさまざまな施策・慣行は、採用行動にどのような効果をもたらすのか」「景気や社会状況の変化は、企業の採用実績にいかなる影響を及ぼすのか」などの問いに取り組んでいます。
 
-## 研究
+詳しいプロフィールは[こちら](./profile.html)
 
-## 業績
+### 研究業績
 
-## 教育
+**主要な論文**
 
-## 経歴
+1.  吉田航，2020，「新卒採用のジェンダー不平等をもたらす企業の組織的要因：企業の経営状況との関連に着目して」『社会学評論』71(2): 314-30．
+2.  吉田航，2020，「国内大企業の新卒採用における学校歴の位置づけ：大学別採用実績データの計量分析から」『教育社会学研究』(107): 89-109．
 
-## 職歴
+**その他の論文・報告書**
 
-## 学会
+1.  吉田航，2018，「大学キャリアセンターによる就職支援の実態調査：大学規模／入学難易度／地域性による差異に着目して」『相関社会科学』27: 39-44．
+2.  橋元良明・小笠原盛浩・河井大介・長濱憲・吉田航，2017，「2016年参議院選挙における投票行動：選挙年齢引き下げで若者はどう対峙したか」『東京大学大学院情報学環情報学研究 調査研究編』33: 31-111．（4節2項、7-8節を分担執筆）
 
-# Header 1
+### 教育
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**ティーチングアシスタント**
 
-## Header 2
+1.  2021年4月 - 2021年7月　アカデミック・リテラシー (明治学院大学社会学部)   
+    教材作成（ワークシート・動画教材等）
+2.  2021年4月 - 2021年7月　確率統計入門  (東京大学教養学部)   
+    授業補助、課題添削
+3.  2020年9月 - 2021年1月　基礎統計  (東京大学教養学部)   
+    授業補助
+4.  2020年4月 - 2020年7月　確率統計入門  (東京大学教養学部)   
+    授業補助、課題添削
+5.  2019年4月 - 2020年3月　英語一列  (東京大学教養学部)   
+    教材作成補助
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+### 経歴
 
 
-### Definition lists can be used with HTML syntax.
+2019年4月 - 現在　　　　東京大学大学院総合文化研究科国際社会科学専攻相関社会科学コース博士後期課程 
+2017年4月 - 2019年3月　東京大学大学院総合文化研究科国際社会科学専攻相関社会科学コース修士課程 
+2016年4月 - 2017年3月　東京大学大学院学際情報学府学際情報学専攻社会情報学コース修士課程 
+2014年4月 - 2016年3月　東京大学 教養学部教養学科総合社会科学分科相関社会科学コース 
+2012年4月 - 2014年3月　東京大学 教養学部文科一類 
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+1993年12月  山口県山口市生まれ
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+### 職歴
 
-```
-The final element.
-```
+2020年4月 - 現在　　　　独立行政法人労働政策研究・研修機構キャリア支援部門アシスタントフェロー 
+2019年4月 - 現在　　　　日本学術振興会特別研究員DC1 
+2018年1月 - 2020年9月　公益財団法人東京財団政策研究所CSR研究プロジェクトリサーチ・アシスタント 
+
+### 学会
+
+*   日本社会学会
+*   International Sociological Association RC30
+*   数理社会学会
+*   組織学会 
+*   日本教育社会学会 
+*   関東社会学会 
+*   社会学研究会
