@@ -1,1 +1,0 @@
-# WataruYoshidaJP.github.io
